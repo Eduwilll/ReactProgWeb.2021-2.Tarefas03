@@ -4,7 +4,7 @@ class Faculdade extends Component {
     render() {
         return( 
             <div>
-                <h1>Quem mora na minha Garagem?</h1>
+                <h1>Quem está na Faculdade?</h1>
                 <Aluno />
             </div>
         )
